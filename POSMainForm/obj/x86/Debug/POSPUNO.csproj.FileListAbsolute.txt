@@ -1,0 +1,247 @@
+F:\BitsClan\Projects\POSPUNO\POSMainForm\bin\Debug\POSMainForm.exe.config
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.exe
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+F:\BitsClan\Projects\POSPUNO\POSMainForm\bin\Debug\POSMainForm.exe
+F:\BitsClan\Projects\POSPUNO\POSMainForm\bin\Debug\POSMainForm.pdb
+F:\BitsClan\Projects\POSPUNO\POSMainForm\bin\Debug\EntityFramework.dll
+F:\BitsClan\Projects\POSPUNO\POSMainForm\bin\Debug\EntityFramework.SqlServer.dll
+F:\BitsClan\Projects\POSPUNO\POSMainForm\bin\Debug\MySql.Data.dll
+F:\BitsClan\Projects\POSPUNO\POSMainForm\bin\Debug\mysql.data.entity.EF6.dll
+F:\BitsClan\Projects\POSPUNO\POSMainForm\bin\Debug\EntityFramework.xml
+F:\BitsClan\Projects\POSPUNO\POSMainForm\bin\Debug\EntityFramework.SqlServer.xml
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCategory.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditProduct.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCustomer.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmDatabaseConfig.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmEnterPassword.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListCustomer.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmLogin.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterDailySales.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListCategory.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListProduct.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListProductStocksIn.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListStaff.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditStaff.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmMain.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmPayment.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByInvoice.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterStocks.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksIn.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksOut.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmPOS.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmSelectCategory.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmSystemSetting.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.Properties.Resources.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSPUNO.csproj.GenerateResource.Cache
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\RdlCompile.cache
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\RdlCompile.compiled
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmInvoice.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSPUNO.csprojResolveAssemblyReference.cache
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListInvoices.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListDetailinvoice.resources
+F:\BitsClan\Projects\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByCustomer.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\bin\Debug\POSMainForm.exe.config
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.exe
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSPUNO.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCategory.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditProduct.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCustomer.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmDatabaseConfig.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmEnterPassword.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListDetailinvoice.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListInvoices.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListCustomer.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmLogin.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmInvoice.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByCustomer.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterDailySales.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListCategory.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListProduct.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListProductStocksIn.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListStaff.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditStaff.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmMain.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmPayment.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByInvoice.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterStocks.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksIn.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksOut.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmPOS.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmSelectCategory.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmSystemSetting.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.Properties.Resources.resources
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSPUNO.csproj.GenerateResource.Cache
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\RdlCompile.cache
+C:\Users\Muhammad Awais Sarwa\Desktop\POSPUNO_BKP\POSPUNO_BKP\POSMainForm\obj\x86\Debug\RdlCompile.compiled
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\bin\Debug\POSMainForm.exe.config
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.exe
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\bin\Debug\POSMainForm.exe
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\bin\Debug\POSMainForm.pdb
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\bin\Debug\EntityFramework.dll
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\bin\Debug\MySql.Data.dll
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\bin\Debug\EntityFramework.xml
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCategory.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditProduct.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCustomer.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmDatabaseConfig.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmEnterPassword.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListDetailinvoice.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListInvoices.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListCustomer.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmLogin.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmInvoice.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByCustomer.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterDailySales.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListCategory.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListProduct.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListProductStocksIn.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmListStaff.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditStaff.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmMain.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmPayment.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByInvoice.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterStocks.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksIn.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksOut.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmPOS.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmSelectCategory.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.frmSystemSetting.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSMainForm.Properties.Resources.resources
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\POSPUNO.csproj.GenerateResource.Cache
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\RdlCompile.cache
+C:\Users\M Faizan Rafiq\Desktop\POSPUNO_BKP_EDITED\POSPUNO_BKP_EDITED\POSPUNO_BKP\POSMainForm\obj\x86\Debug\RdlCompile.compiled
+C:\POSPUNO\POSMainForm\bin\Debug\POSMainForm.exe.config
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.exe
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+C:\POSPUNO\POSMainForm\bin\Debug\POSMainForm.exe
+C:\POSPUNO\POSMainForm\bin\Debug\POSMainForm.pdb
+C:\POSPUNO\POSMainForm\bin\Debug\EntityFramework.dll
+C:\POSPUNO\POSMainForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\POSPUNO\POSMainForm\bin\Debug\MySql.Data.dll
+C:\POSPUNO\POSMainForm\bin\Debug\mysql.data.entity.EF6.dll
+C:\POSPUNO\POSMainForm\bin\Debug\EntityFramework.xml
+C:\POSPUNO\POSMainForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCategory.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditProduct.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCustomer.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmDatabaseConfig.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmEnterPassword.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListDetailinvoice.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListInvoices.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListCustomer.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmLogin.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmInvoice.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByCustomer.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterDailySales.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListCategory.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListProduct.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListProductStocksIn.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListStaff.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditStaff.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmMain.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmPayment.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByInvoice.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterStocks.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksIn.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksOut.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmPOS.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmSelectCategory.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmSystemSetting.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.Properties.Resources.resources
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSPUNO.csproj.GenerateResource.Cache
+C:\POSPUNO\POSMainForm\obj\x86\Debug\RdlCompile.cache
+C:\POSPUNO\POSMainForm\obj\x86\Debug\RdlCompile.compiled
+C:\POSPUNO\POSMainForm\obj\x86\Debug\POSPUNO.csprojResolveAssemblyReference.cache
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\bin\Debug\POSMainForm.exe.config
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.exe
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\bin\Debug\POSMainForm.exe
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\bin\Debug\POSMainForm.pdb
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\bin\Debug\EntityFramework.dll
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\bin\Debug\EntityFramework.SqlServer.dll
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\bin\Debug\MySql.Data.dll
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\bin\Debug\mysql.data.entity.EF6.dll
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\bin\Debug\EntityFramework.xml
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\bin\Debug\EntityFramework.SqlServer.xml
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSPUNO.csprojResolveAssemblyReference.cache
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCategory.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditProduct.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCustomer.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmDatabaseConfig.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmEnterPassword.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListDetailinvoice.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListInvoices.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListCustomer.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmLogin.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmInvoice.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByCustomer.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterDailySales.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListCategory.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListProduct.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListProductStocksIn.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListStaff.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditStaff.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmMain.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmPayment.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByInvoice.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterStocks.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksIn.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksOut.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmPOS.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmSelectCategory.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmSystemSetting.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.Properties.Resources.resources
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\POSPUNO.csproj.GenerateResource.Cache
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\RdlCompile.cache
+F:\BitsClan\BACKUP\POSPUNO\POSMainForm\obj\x86\Debug\RdlCompile.compiled
+C:\Users\M Faizan Rafiq\Dropbox\bistclan\Client Data\Puno battery\Source Code POSPUNO\POSMainForm\bin\Debug\POSMainForm.exe.config
+C:\Users\M Faizan Rafiq\Dropbox\bistclan\Client Data\Puno battery\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.exe
+C:\Users\M Faizan Rafiq\Dropbox\bistclan\Client Data\Puno battery\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\POSMainForm.exe.config
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.exe
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\POSMainForm.exe
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\POSMainForm.pdb
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\EntityFramework.dll
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\EntityFramework.SqlServer.dll
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\MySql.Data.dll
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\mysql.data.entity.EF6.dll
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\EntityFramework.xml
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\EntityFramework.SqlServer.xml
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSPUNO.csprojResolveAssemblyReference.cache
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCategory.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditProduct.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCustomer.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmDatabaseConfig.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmEnterPassword.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListDetailinvoice.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListInvoices.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListCustomer.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmLogin.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmInvoice.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByCustomer.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterDailySales.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListCategory.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListProduct.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListProductStocksIn.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmListStaff.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditStaff.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmMain.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmPayment.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByInvoice.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterStocks.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksIn.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksOut.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmPOS.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmSelectCategory.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.frmSystemSetting.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSMainForm.Properties.Resources.resources
+E:\Leemutech\punno\Previous Punno Data\Source Code POSPUNO\POSMainForm\obj\x86\Debug\POSPUNO.csproj.GenerateResource.Cache
